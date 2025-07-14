@@ -1,0 +1,20 @@
+{
+  "name": "updated-nextjs",
+  "version": "1.0.0",
+  "description": "Basic app for app-router based next.js framework.",
+  "homepage": "https://github.com/ParthJedi/updated-Nextjs#readme",
+  "bugs": {
+    "url": "https://github.com/ParthJedi/updated-Nextjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParthJedi/updated-Nextjs.git"
+  },
+  "license": "ISC",
+  "author": "Parth Joshi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
